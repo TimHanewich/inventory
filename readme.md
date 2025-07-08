@@ -3,7 +3,7 @@ I buy, test, and use a *a lot* of various electronic components, hardware, micro
 
 ## Electronics
 - [TP4056 Lithium Battery Charging Module](https://a.co/d/fWM2hbb)
-- [5V, 200 mA Solar Panels](https://a.co/d/aCdt4tS)
+- [5V, 200 mA Solar Panels](./5V-Solar/)
 - [TCA9548A I2C Multiplexer](https://a.co/d/5azGJH1)
 - Communication
     - [REYAX RYLR998 LoRa Module](https://a.co/d/ex3ng5C), with write-up and driver [here](https://github.com/TimHanewich/MicroPython-Collection/tree/master/REYAX-RYLR998)
