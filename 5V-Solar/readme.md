@@ -7,10 +7,13 @@ According to [this review](https://i.imgur.com/L4ejdIv.png), they get:
 - 52.8 mA with 100 ohm load (resistor)
 - 99.6 mA with 47 ohm load (resistor)
 
-My test:
-- Inside, in shade, but facing out window:
-    - 8 mA
+My tests:
+- Inside, in shade, but facing out window, no load:
     - 5.2 v
+    - 8 mA
+- Outside, in direct sunlight, no load:
+    - ~6v
+    - ~135 mA
 
 ## Performance: An Old Unit
 I had a very old unit that had spent about a full year in the Florida sun. The performance was very poor. Performance below was measured in **direct sunlight** in the summertime in Florida:
